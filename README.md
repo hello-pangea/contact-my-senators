@@ -1,6 +1,6 @@
-# Pangea main site
+# Contact my senators
 
-This is the main site for Pangea open source software, found at [hellopangea.com](https://hellopangea.com/)
+A simple web app to make it easy to get in touch with your state senators. See [contactmysenators.com](https://contactmysenators.com/)
 
 ## Major technologies
 
